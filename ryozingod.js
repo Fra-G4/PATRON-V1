@@ -3,7 +3,7 @@
 Kalo Mau Recode Kasih Credit gw ›
 TheZetsubXygen / Ryo
 
-📝 > Created By PATRON 🚹
+📝 > Created By Unknown 🚹
 🖥️ > Base Ori By BLUE DEMON
                
 */
@@ -3636,9 +3636,9 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `*ACCOUNT-8133729715*
+                    text: `*ACCOUNT-7031295155*
 *BANK-OPAY*
-*NAME-FADARE*`,
+*NAME-OMOLADE OLATUNJI*`,
                   },
                   { quoted: m }
                 );
